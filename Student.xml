@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Studentlist>
+    <student>
+        <ID>AP2211001000</ID>
+        <pass>password</pass>
+        <name>Naidu Raja Sekhar</name>
+        <gender>Male</gender>
+        <DOB>06/07/03</DOB>
+        <rel>Hindu</rel>
+        <nat>Indian</nat>
+        <add>Andhra pradesh,SRM University</add>
+        <f_name>Ramanaiah</f_name>
+        <f_occ>Farmer</f_occ>
+        <f_in>300000</f_in>
+        <SSC>92</SSC>
+        <Inter>98</Inter>
+        <TC>6723</TC>
+        <course>CSE</course>
+        <fee>109000</fee>
+        <email>rajasekhar_naidu@srmap.edu.in</email>
+        <comments>Classes will commence from 12-01-2023</comments>
+    </student>
+    <student>
+        <ID>AP2211001001</ID>
+        <pass>passworD</pass>
+        <name>Mahesh Kumar</name>
+        <gender>Male</gender>
+        <DOB>17/08/09</DOB>
+        <rel>Hindu</rel>
+        <nat>Indian</nat>
+        <add>Andhra pradesh,SRM University</add>
+        <f_name>Malli</f_name>
+        <f_occ>Bank Manager</f_occ>
+        <f_in>60000</f_in>
+        <SSC>76</SSC>
+        <Inter>89</Inter>
+        <TC>8887</TC>
+        <course>CSE</course>
+        <fee>160000</fee>
+        <email>mahi143@gmail.com</email>
+        <comments>Classes will commence from 12-01-2023</comments>
+    </student>
+    <student>
+        <ID>AP2211001002</ID>
+        <pass>passwoRd</pass>
+        <name>Yojith Krishna</name>
+        <gender>Male</gender>
+        <DOB>21/11/16</DOB>
+        <rel>Hindu</rel>
+        <nat>Indian</nat>
+        <add>Andhra pradesh,SRM University</add>
+        <f_name>Mani</f_name>
+        <f_occ>Private employee</f_occ>
+        <f_in>400000</f_in>
+        <SSC>87</SSC>
+        <Inter>91</Inter>
+        <TC>1444</TC>
+        <course>CSE</course>
+        <fee>170000</fee>
+        <email>yojith_lover@gmail.com</email>
+        <comments>Classes will commence from 12-01-2023</comments>
+    </student>
+</Studentlist>
